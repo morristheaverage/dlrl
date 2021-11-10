@@ -1,0 +1,229 @@
+marking, episode: 0, score: 600.0, mean_score: 600.00, std_score: 0.00
+episode: 5, score: 500.0, epsilon: 0.08
+episode: 10, score: 250.0, epsilon: 0.08
+episode: 15, score: 600.0, epsilon: 0.08
+episode: 20, score: 0.0, epsilon: 0.08
+episode: 25, score: 0.0, epsilon: 0.08
+episode: 30, score: 100.0, epsilon: 0.08
+episode: 35, score: 100.0, epsilon: 0.08
+episode: 40, score: 300.0, epsilon: 0.08
+episode: 45, score: 100.0, epsilon: 0.08
+episode: 50, score: 100.0, epsilon: 0.08
+episode: 55, score: 0.0, epsilon: 0.08
+episode: 60, score: 0.0, epsilon: 0.08
+episode: 65, score: 0.0, epsilon: 0.08
+episode: 70, score: 0.0, epsilon: 0.08
+episode: 75, score: 100.0, epsilon: 0.08
+episode: 80, score: 0.0, epsilon: 0.08
+episode: 85, score: 0.0, epsilon: 0.08
+episode: 90, score: 100.0, epsilon: 0.08
+episode: 95, score: 0.0, epsilon: 0.08
+marking, episode: 100, score: 100.0, mean_score: 90.00, std_score: 138.56
+episode: 100, score: 100.0, epsilon: 0.07
+episode: 105, score: 0.0, epsilon: 0.07
+episode: 110, score: 100.0, epsilon: 0.07
+episode: 115, score: 100.0, epsilon: 0.07
+episode: 120, score: 100.0, epsilon: 0.07
+episode: 125, score: 100.0, epsilon: 0.07
+episode: 130, score: 250.0, epsilon: 0.07
+episode: 135, score: 0.0, epsilon: 0.07
+episode: 140, score: 0.0, epsilon: 0.07
+episode: 145, score: 0.0, epsilon: 0.07
+episode: 150, score: 100.0, epsilon: 0.07
+episode: 155, score: 200.0, epsilon: 0.07
+episode: 160, score: 0.0, epsilon: 0.07
+episode: 165, score: 100.0, epsilon: 0.07
+episode: 170, score: 0.0, epsilon: 0.07
+episode: 175, score: 0.0, epsilon: 0.07
+episode: 180, score: 200.0, epsilon: 0.07
+episode: 185, score: 200.0, epsilon: 0.07
+episode: 190, score: 0.0, epsilon: 0.07
+episode: 195, score: 100.0, epsilon: 0.07
+marking, episode: 200, score: 300.0, mean_score: 76.00, std_score: 105.71
+episode: 200, score: 300.0, epsilon: 0.07
+episode: 205, score: 0.0, epsilon: 0.07
+episode: 210, score: 100.0, epsilon: 0.07
+episode: 215, score: 0.0, epsilon: 0.07
+episode: 220, score: 0.0, epsilon: 0.07
+episode: 225, score: 500.0, epsilon: 0.07
+episode: 230, score: 100.0, epsilon: 0.07
+episode: 235, score: 0.0, epsilon: 0.07
+episode: 240, score: 0.0, epsilon: 0.07
+episode: 245, score: 200.0, epsilon: 0.07
+episode: 250, score: 0.0, epsilon: 0.07
+episode: 255, score: 0.0, epsilon: 0.07
+episode: 260, score: 0.0, epsilon: 0.07
+episode: 265, score: 250.0, epsilon: 0.07
+episode: 270, score: 300.0, epsilon: 0.07
+episode: 275, score: 100.0, epsilon: 0.07
+episode: 280, score: 0.0, epsilon: 0.07
+episode: 285, score: 0.0, epsilon: 0.07
+episode: 290, score: 0.0, epsilon: 0.07
+episode: 295, score: 600.0, epsilon: 0.07
+marking, episode: 300, score: 100.0, mean_score: 112.00, std_score: 168.39
+episode: 300, score: 100.0, epsilon: 0.07
+episode: 305, score: 0.0, epsilon: 0.06
+episode: 310, score: 100.0, epsilon: 0.06
+episode: 315, score: 0.0, epsilon: 0.06
+episode: 320, score: 0.0, epsilon: 0.06
+episode: 325, score: 0.0, epsilon: 0.06
+episode: 330, score: 0.0, epsilon: 0.06
+episode: 335, score: 0.0, epsilon: 0.06
+episode: 340, score: 100.0, epsilon: 0.06
+episode: 345, score: 0.0, epsilon: 0.06
+episode: 350, score: 0.0, epsilon: 0.06
+episode: 355, score: 0.0, epsilon: 0.06
+episode: 360, score: 0.0, epsilon: 0.06
+episode: 365, score: 0.0, epsilon: 0.06
+episode: 370, score: 0.0, epsilon: 0.06
+episode: 375, score: 300.0, epsilon: 0.06
+episode: 380, score: 0.0, epsilon: 0.06
+episode: 385, score: 0.0, epsilon: 0.06
+episode: 390, score: 0.0, epsilon: 0.06
+episode: 395, score: 0.0, epsilon: 0.06
+marking, episode: 400, score: 100.0, mean_score: 34.00, std_score: 63.59
+episode: 400, score: 100.0, epsilon: 0.06
+episode: 405, score: 0.0, epsilon: 0.06
+episode: 410, score: 0.0, epsilon: 0.06
+episode: 415, score: 0.0, epsilon: 0.06
+episode: 420, score: 0.0, epsilon: 0.06
+episode: 425, score: 0.0, epsilon: 0.06
+episode: 430, score: 100.0, epsilon: 0.06
+episode: 435, score: 100.0, epsilon: 0.06
+episode: 440, score: 200.0, epsilon: 0.06
+episode: 445, score: 0.0, epsilon: 0.06
+episode: 450, score: 100.0, epsilon: 0.06
+episode: 455, score: 100.0, epsilon: 0.06
+episode: 460, score: 100.0, epsilon: 0.06
+episode: 465, score: 0.0, epsilon: 0.06
+episode: 470, score: 0.0, epsilon: 0.06
+episode: 475, score: 0.0, epsilon: 0.06
+episode: 480, score: 0.0, epsilon: 0.06
+episode: 485, score: 0.0, epsilon: 0.06
+episode: 490, score: 100.0, epsilon: 0.06
+episode: 495, score: 100.0, epsilon: 0.06
+marking, episode: 500, score: 0.0, mean_score: 26.00, std_score: 50.24
+episode: 500, score: 0.0, epsilon: 0.06
+episode: 505, score: 0.0, epsilon: 0.05
+episode: 510, score: 0.0, epsilon: 0.05
+episode: 515, score: 0.0, epsilon: 0.05
+episode: 520, score: 100.0, epsilon: 0.05
+episode: 525, score: 0.0, epsilon: 0.05
+episode: 530, score: 0.0, epsilon: 0.05
+episode: 535, score: 0.0, epsilon: 0.05
+episode: 540, score: 200.0, epsilon: 0.05
+episode: 545, score: 0.0, epsilon: 0.05
+episode: 550, score: 100.0, epsilon: 0.05
+episode: 555, score: 0.0, epsilon: 0.05
+episode: 560, score: 0.0, epsilon: 0.05
+episode: 565, score: 0.0, epsilon: 0.05
+episode: 570, score: 0.0, epsilon: 0.05
+episode: 575, score: 0.0, epsilon: 0.05
+episode: 580, score: 0.0, epsilon: 0.05
+episode: 585, score: 0.0, epsilon: 0.05
+episode: 590, score: 100.0, epsilon: 0.05
+episode: 595, score: 0.0, epsilon: 0.05
+marking, episode: 600, score: 0.0, mean_score: 17.00, std_score: 42.56
+episode: 600, score: 0.0, epsilon: 0.05
+episode: 605, score: 100.0, epsilon: 0.05
+episode: 610, score: 0.0, epsilon: 0.05
+episode: 615, score: 100.0, epsilon: 0.05
+episode: 620, score: 0.0, epsilon: 0.05
+episode: 625, score: 0.0, epsilon: 0.05
+episode: 630, score: 0.0, epsilon: 0.05
+episode: 635, score: 0.0, epsilon: 0.05
+episode: 640, score: 200.0, epsilon: 0.05
+episode: 645, score: 0.0, epsilon: 0.05
+episode: 650, score: 0.0, epsilon: 0.05
+episode: 655, score: 100.0, epsilon: 0.05
+episode: 660, score: 0.0, epsilon: 0.05
+episode: 665, score: 0.0, epsilon: 0.05
+episode: 670, score: 0.0, epsilon: 0.05
+episode: 675, score: 100.0, epsilon: 0.05
+episode: 680, score: 0.0, epsilon: 0.05
+episode: 685, score: 0.0, epsilon: 0.05
+episode: 690, score: 0.0, epsilon: 0.05
+episode: 695, score: 0.0, epsilon: 0.05
+marking, episode: 700, score: 100.0, mean_score: 25.00, std_score: 45.55
+episode: 700, score: 100.0, epsilon: 0.04
+episode: 705, score: 0.0, epsilon: 0.04
+episode: 710, score: 0.0, epsilon: 0.04
+episode: 715, score: 0.0, epsilon: 0.04
+episode: 720, score: 0.0, epsilon: 0.04
+episode: 725, score: 200.0, epsilon: 0.04
+episode: 730, score: 0.0, epsilon: 0.04
+episode: 735, score: 0.0, epsilon: 0.04
+episode: 740, score: 0.0, epsilon: 0.04
+episode: 745, score: 0.0, epsilon: 0.04
+episode: 750, score: 0.0, epsilon: 0.04
+episode: 755, score: 0.0, epsilon: 0.04
+episode: 760, score: 0.0, epsilon: 0.04
+episode: 765, score: 0.0, epsilon: 0.04
+episode: 770, score: 0.0, epsilon: 0.04
+episode: 775, score: 0.0, epsilon: 0.04
+episode: 780, score: 100.0, epsilon: 0.04
+episode: 785, score: 100.0, epsilon: 0.04
+episode: 790, score: 0.0, epsilon: 0.04
+episode: 795, score: 100.0, epsilon: 0.04
+marking, episode: 800, score: 200.0, mean_score: 42.50, std_score: 77.90
+episode: 800, score: 200.0, epsilon: 0.04
+episode: 805, score: 0.0, epsilon: 0.04
+episode: 810, score: 100.0, epsilon: 0.04
+episode: 815, score: 0.0, epsilon: 0.04
+episode: 820, score: 0.0, epsilon: 0.04
+episode: 825, score: 0.0, epsilon: 0.04
+episode: 830, score: 600.0, epsilon: 0.04
+episode: 835, score: 200.0, epsilon: 0.04
+episode: 840, score: 0.0, epsilon: 0.04
+episode: 845, score: 600.0, epsilon: 0.04
+episode: 850, score: 0.0, epsilon: 0.04
+episode: 855, score: 0.0, epsilon: 0.04
+episode: 860, score: 100.0, epsilon: 0.04
+episode: 865, score: 0.0, epsilon: 0.04
+episode: 870, score: 100.0, epsilon: 0.04
+episode: 875, score: 100.0, epsilon: 0.04
+episode: 880, score: 0.0, epsilon: 0.04
+episode: 885, score: 100.0, epsilon: 0.04
+episode: 890, score: 0.0, epsilon: 0.04
+episode: 895, score: 0.0, epsilon: 0.04
+marking, episode: 900, score: 0.0, mean_score: 70.50, std_score: 141.79
+episode: 900, score: 0.0, epsilon: 0.04
+episode: 905, score: 0.0, epsilon: 0.03
+episode: 910, score: 0.0, epsilon: 0.03
+episode: 915, score: 100.0, epsilon: 0.03
+episode: 920, score: 0.0, epsilon: 0.03
+episode: 925, score: 0.0, epsilon: 0.03
+episode: 930, score: 0.0, epsilon: 0.03
+episode: 935, score: 100.0, epsilon: 0.03
+episode: 940, score: 0.0, epsilon: 0.03
+episode: 945, score: 0.0, epsilon: 0.03
+episode: 950, score: 0.0, epsilon: 0.03
+episode: 955, score: 0.0, epsilon: 0.03
+episode: 960, score: 0.0, epsilon: 0.03
+episode: 965, score: 100.0, epsilon: 0.03
+episode: 970, score: 0.0, epsilon: 0.03
+episode: 975, score: 0.0, epsilon: 0.03
+episode: 980, score: 100.0, epsilon: 0.03
+episode: 985, score: 0.0, epsilon: 0.03
+episode: 990, score: 200.0, epsilon: 0.03
+episode: 995, score: 0.0, epsilon: 0.03
+marking, episode: 1000, score: 0.0, mean_score: 19.00, std_score: 48.36
+episode: 1000, score: 0.0, epsilon: 0.03
+---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+<ipython-input-9-f79a11c02471> in <module>()
+     10 
+     11         # Behaviour learning
+---> 12         dream(memory, wm, actor, critic, critic_target, optimizer_a, optimizer_c)
+     13     critic_target.load_state_dict(critic.state_dict())
+     14 
+
+7 frames
+/usr/local/lib/python3.6/dist-packages/torch/nn/functional.py in linear(input, weight, bias)
+   1688     if input.dim() == 2 and bias is not None:
+   1689         # fused op is marginally faster
+-> 1690         ret = torch.addmm(bias, input, weight.t())
+   1691     else:
+   1692         output = input.matmul(weight.t())
+
+KeyboardInterrupt: 
